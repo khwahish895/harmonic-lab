@@ -1,0 +1,5 @@
+{
+  "name": "Harmonic Lab",
+  "description": "An interactive music theory explorer with AI-powered scale/chord visualizations and creative image generation.",
+  "requestFramePermissions": []
+}
